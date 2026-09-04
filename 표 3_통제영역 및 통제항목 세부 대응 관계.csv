@@ -1,0 +1,12 @@
+﻿통제 영역,SP 800-53B 통제군,ISM 통제군,N²SF,N2SF 산출 근거
+접근통제 및 인증,"AC-1(Low), IA-2(Low)",System hardening,94개,권한 37 + 인증 57
+경계 및 분리/흐름,"SC-7(Low), AC-4(Mod+)","Gateways, Data transfers",108개,분리 및 격리 20 + 통제 88
+데이터 보호/암호,"SC-8(Mod+), SC-12(Low), SC-13(Low), SC-28(Mod+)",Cryptography,26개,데이터 26
+자산/구성 관리,"CM-8(Low), MA-2(Low)",IT equipment,46개,정보자산 46
+로깅/모니터링,"AU-2(Low), AU-6(Low)",Security assurance (Security monitoring),18개,"전용 통제군 없으나,각 통제군의 관리 항목에 분산"
+보안 평가/감사,"CA-2(Low), CA-7(Low)",Security assurance,5개,"전용 통제군 없으나,  각 통제군의 관리 항목에 분산"
+취약점 관리/패치,"RA-5(Low), SI-2(Low)",System management,전용 통제군 없음,해당 항목 없음
+공급망 보안,"SR-3(Low), SR-5(Low)",Procurement and outsourcing,전용 통제군 없음,해당 항목 없음
+사고대응/복구,"IR-4(Low), CP-9(Low)",Cyber security incidents,전용 통제군 없음,해당 항목 없음
+인적 보안/교육,"AT-2(Low), PS-3(Low)",Personnel security,전용 통제군 없음,해당 항목 없음
+SW 개발보안,"SA-8(Low), SA-11(Mod+)",Software development,전용 통제군 없음,해당 항목 없음

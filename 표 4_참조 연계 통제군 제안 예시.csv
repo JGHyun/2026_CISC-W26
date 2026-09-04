@@ -1,0 +1,4 @@
+﻿제안한 통제군,통제 영역,참조 규정,적용 등급,SP 800-53B 대응,ISM 대응,N²SF 기존 항목
+취약점 관리 (VM),"취약점 식별 및 점검, 보안 업데이트 적용, 조치 결과 확인",국가 사이버보안 기본지침 제7장,"C, S, O","RA-5(Low), SI-2(Low)",Guidelines for system management (NC 56개),"AU-M2 (인증 위협 및 취약점 관리, CSO)"
+공급망 보안 (SR),"SBOM 작성 및 관리, 제3자 구성요소 검증, 도입 제품 보안성 확인",SW 공급망 보안 강화 로드맵,"C, S, O","SR-3(Low), SR-5(Low)",Guidelines for procurement and outsourcing (NC 35개),"DV-12(C), DV-M2(CS), IN-12(CSO)"
+사고대응 (IR),"침해사고 탐지 및 신고, 자료 보전, 초동조치, 복구 및 재발 방지","정보통신망법 제48조 3, 4","C, S, O","IR-4(Low), CP-9(Low)",Guidelines for cyber security incidents (NC 21개),"AP-M3(CSO), SG-M5(C), IS-6(CSO)"
